@@ -1,0 +1,11 @@
+function soma(x, y) {
+    var total = x + y;
+    return total;
+    alert('hello!');
+}
+
+function x() {
+        alert('hello!');
+    };
+
+soma();
